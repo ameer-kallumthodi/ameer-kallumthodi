@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="128" height="128"/>
+<img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="150" height="150"/>
 </p>
  <p align="center">
 <a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

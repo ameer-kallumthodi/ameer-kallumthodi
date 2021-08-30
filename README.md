@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
 ----
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-kallumthodi/pikachu&show_icons=true&theme=dark&locale=en&layout=compact" alt="ameer-kallumthodi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en&layout=compact" alt="ameer-kallumthodi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
 

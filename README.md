@@ -6,6 +6,7 @@
 - Python
 - Javascript
 - Web Designing
+- C Programming
 
 ## <!-- Typing SVG -->
 <p align="center">

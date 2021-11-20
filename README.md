@@ -1,8 +1,17 @@
+## Hello, I'm [ameer-kallumthodi](https://instagram.com/ameer_.su_hail) 
+
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+
+:page_with_curl: I'm currently learning:
+- Python
+- Javascript
+- Web Designing
+
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Ameer+Kallumthodi+Profile."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Ameer+Kallumthodi's+Profile."
             alt="Typing SVG"
         />
     </a>

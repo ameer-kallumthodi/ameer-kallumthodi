@@ -2,11 +2,8 @@
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-:page_with_curl: I'm currently learning:
-- Python
-- Javascript
-- Web Designing
-- C Programming
+:page_with_curl: I'm currently Studiying:
+- BCA 
 
 ## <!-- Typing SVG -->
 <p align="center">

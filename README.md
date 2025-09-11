@@ -1,6 +1,9 @@
 ## 👋 Hello, I'm [Ameer Suhail (Kallumthodi)](https://instagram.com/ameer_.su_hail)  
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+<p align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="60px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/CodeIgniter_logo.svg" alt="CodeIgniter" height="60px"/>
+</p>
 
 💻 **PHP Web Developer** | ⚡ **Laravel & CodeIgniter Specialist**  
 🌍 Based in Kerala, India  

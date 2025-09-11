@@ -1,43 +1,86 @@
-## Hello, I'm [ameer-kallumthodi](https://instagram.com/ameer_.su_hail) 
+## 👋 Hello, I'm [Ameer Suhail (Kallumthodi)](https://instagram.com/ameer_.su_hail)  
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-:page_with_curl: I'm currently Studiying.
+💻 **PHP Web Developer** | ⚡ **Laravel & CodeIgniter Specialist**  
+🌍 Based in Kerala, India  
 
+---
 
-## <!-- Typing SVG -->
+## 🚀 About Me
+- 💡 **PHP Web Developer** working on real-world applications **since May 2023**  
+- 🛠 Skilled in **Laravel, CodeIgniter (CI3/CI4)**, **JavaScript**, **SQL**, and **API integrations**  
+- 📊 Experienced in developing **CRM, LMS, ERP** systems and custom web applications  
+- 💳 Integrated **Razorpay Payment Gateway**, **Zoom**, **Voxbay**, **Meta**, and **Wabiz (WhatsApp Messaging)**  
+- 🎯 Passionate about creating **clean, optimized, and user-friendly applications**  
+
+---
+
+## 🛠️ Tech Stack & Skills
+- **Languages:** PHP, JavaScript, SQL, HTML, CSS  
+- **Frameworks:** Laravel, CodeIgniter (CI3 & CI4)  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, cPanel, DigitalOcean, Postman, VS Code  
+- **Other Skills:** RESTful APIs, Payment Gateway Integration, Third-party API integrations, Excel Import/Export  
+
+---
+
+## 🏆 Achievements
+- 🥇 **Best Performer of the Month – January 2024 at Trogon Media Pvt Ltd**  
+- 🥇 **Best Performer of the Month – February 2024 at Trogon Media Pvt Ltd**  
+- 🥇 **Best Performer of the Month – July 2024 at Trogon Media Pvt Ltd**  
+- 🚀 Delivered multiple **CRM, LMS, ERP** solutions with advanced integrations  
+
+---
+
+## 📌 Projects  
+
+### 🔹 Learning Management Systems (LMS)  
+Developed LMS platforms to enhance e-learning with course management and student tracking features:  
+- IRS Learning  
+- Graceacademy  
+- Britco & Britco  
+- Skyil  
+- Skillage  
+- StockX  
+
+### 🔹 Customer Relationship Management (CRM)  
+Contributed to CRM solutions helping businesses and institutions streamline operations:  
+- Aimbridge  
+- Alpharo  
+- Tuit Online  
+- National Academy  
+- Educare  
+
+### 🔹 Enterprise Resource Planning (ERP)  
+Built ERP solutions focusing on payment processing and student management:  
+- Fulbright  
+- Phoenix Institutions  
+
+### 🔹 Employee Tracking System  
+- **Codeace** – Optimized business processes with employee tracking  
+
+### 🔹 Event & Other Systems  
+- **IAME** – School Event Management System  
+- **Nexus Gold & Diamonds** – Web application integrating **live gold rates API** for real-time pricing  
+
+---
+
+## 📈 GitHub Stats  
 <p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Ameer+Kallumthodi's+Profile."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-<div align="center">
-  <p align="center">
-<img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
-</p>
- <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://wa.me/+919946432377"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
+ <img src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&hide_border=true" height="165px"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark&hide_border=true" height="165px"/>
+</p>  
+
+---
+
+## 📫 Connect with Me
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
+  <a href="https://wa.me/+919946432377"><img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://instagram.com/ameer_.su_hail"><img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/ameer-kallumthodi"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
 </p>
 
-----
-<p align="center">
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
-</p>
- 
+⭐ **“Code is like humor. When you have to explain it, it’s bad.”**

@@ -2,7 +2,7 @@
 
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="60px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/CodeIgniter_logo.svg" alt="CodeIgniter" height="60px"/>
+  <img src="https://codeigniter.com/assets/icons/ci-logo.png" alt="CodeIgniter" height="60px"/>
 </p>
 
 💻 **PHP Web Developer** | ⚡ **Laravel & CodeIgniter Specialist**  
@@ -52,7 +52,7 @@ Contributed to CRM solutions helping businesses and institutions streamline oper
 - Aimbridge  
 - Alpharo  
 - Tuit Online  
-- National Academy  
+- Skillpark  
 - Educare  
 
 ### 🔹 Enterprise Resource Planning (ERP)  

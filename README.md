@@ -3,28 +3,29 @@
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="60px"/>
   <img src="https://codeigniter.com/assets/icons/ci-logo.png" alt="CodeIgniter" height="60px"/>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" height="60px"/>
 </p>
 
-💻 **PHP Web Developer** | ⚡ **Laravel & CodeIgniter Specialist**  
+💻 **Web Application Developer** | ⚡ **Laravel, CodeIgniter & Django Specialist**  
 🌍 Based in Kerala, India  
 
 ---
 
 ## 🚀 About Me
-- 💡 **PHP Web Developer** working on real-world applications **since May 2023**  
-- 🛠 Skilled in **Laravel, CodeIgniter (CI3/CI4)**, **JavaScript**, **SQL**, and **API integrations**  
+- 💡 Web application developer working on real-world applications **since May 2023**  
+- 🛠 Skilled in **Laravel, CodeIgniter (CI3/CI4), Django**, **JavaScript**, **SQL**, and **API integrations**  
 - 📊 Experienced in developing **CRM, LMS, ERP** systems and custom web applications  
 - 💳 Integrated **Razorpay Payment Gateway**, **Zoom**, **Voxbay**, **Meta**, and **Wabiz (WhatsApp Messaging)**  
-- 🎯 Passionate about creating **clean, optimized, and user-friendly applications**  
+- 🎯 Passionate about building **scalable, optimized, and production-ready systems**  
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-- **Languages:** PHP, JavaScript, SQL, HTML, CSS  
-- **Frameworks:** Laravel, CodeIgniter (CI3 & CI4)  
+- **Languages:** PHP, Python, JavaScript, SQL, HTML, CSS  
+- **Frameworks:** Laravel, CodeIgniter (CI3 & CI4), Django  
 - **Databases:** MySQL  
 - **Tools & Platforms:** Git, cPanel, DigitalOcean, Postman, VS Code  
-- **Other Skills:** RESTful APIs, Payment Gateway Integration, Third-party API integrations, Excel Import/Export  
+- **Other Skills:** RESTful APIs, Payment Gateway Integration, Third-party API Integrations, Excel Import/Export  
 
 ---
 

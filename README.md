@@ -6,7 +6,7 @@
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" height="60px"/>
 </p>
 
-💻 **Web Application Developer** | ⚡ **Laravel & CodeIgniter Specialist**  
+💻 **Senior Web Developer** | ⚡ **Laravel & CodeIgniter Specialist**  
 🌍 Based in Kerala, India  
 
 ---

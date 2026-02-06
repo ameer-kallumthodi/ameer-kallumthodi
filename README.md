@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 💡 Web application developer working on real-world applications **since May 2023**  
 - 🛠 Skilled in **Laravel, CodeIgniter (CI3/CI4), Django**, **JavaScript**, **SQL**, and **API integrations**  
-- 📊 Experienced in developing **CRM, LMS, ERP** systems and custom web applications  
+- 📊 Experienced in developing **CRM, LMS, ERP, E-commerce, TMS** systems and custom web applications  
 - 💳 Integrated **Razorpay Payment Gateway**, **Zoom**, **Voxbay**, **Meta**, and **Wabiz (WhatsApp Messaging)**  
 - 🎯 Passionate about building **scalable, optimized, and production-ready systems**  
 
